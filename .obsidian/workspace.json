@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57d785f6e21a35d4",
+        "id": "f0dc2711fd77828e",
         "type": "tabs",
         "children": [
           {
-            "id": "c417666a9fb49a66",
+            "id": "d239c36417ce4667",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md"
+                "file": "ring.md"
               }
             }
           },
@@ -164,13 +160,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c417666a9fb49a66",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "assets/imgs/pfp.png",
+    "assets/imgs/Consensys - PFP.png",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_journal/exocore-workflow.md",
     "_journal/jade-post.md",
     "_journal/korean-ginseng-chicken-soup.md",
     "_journal/newinternet.md",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/2022-05-11.md",
     "_daily/2024-01-18.md",
     "_articles/Exocore Installation Instructions.md",

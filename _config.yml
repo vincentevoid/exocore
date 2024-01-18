@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: Vincente Void's exocore
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://vincentevoid.netlify.app
+repository: vincentevoid/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
